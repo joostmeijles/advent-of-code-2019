@@ -1,1 +1,1 @@
-# advent-of-code-2019
+The Advent of Code 2019 solved using Haskell.
